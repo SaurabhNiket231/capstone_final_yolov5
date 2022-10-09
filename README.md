@@ -1,1 +1,1 @@
-# capstone_final_yolov5
+# yolo_streamlit
